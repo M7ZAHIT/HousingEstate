@@ -1,0 +1,11 @@
+Person{ID=8252dc4a-ea7d-4363-bd45-1e20275167f7, name='Alfred, surname='Junior, address='Bach Street 23, rentedApartments = [Apartment{ ID=f0a5c, cubicMeter=94, tenant= Alfred }
+], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
+Person{ID=8b317f38-d612-4218-b978-41720d5df709, name='Dennis, surname='Ritchie, address='C Street 2, rentedApartments = [], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
+Person{ID=92be8cc2-4279-4ba4-8054-b240fdb21399, name='James, surname='Smith, address='Menonos Street 21, rentedApartments = [Apartment{ ID=cfa1f, cubicMeter=91, tenant= James }
+], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
+Person{ID=01dad616-df26-4a1b-9c97-3e17072a730d, name='Jonathan, surname='Robert, address='Rose Stret 56, rentedApartments = [Apartment{ ID=4d463, cubicMeter=105, tenant= Jonathan }
+], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
+Person{ID=41053bdb-0ead-40e9-9f27-bf08f41b5694, name='Linus, surname='Towarlds, address='Linux Street 01, rentedApartments = [Apartment{ ID=668b3, cubicMeter=83, tenant= Linus }
+], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
+Person{ID=1ef75b9b-a0f1-4d34-a13d-619a28b83328, name='William, surname='Koch, address='Frankfurter Street 12, rentedApartments = [Apartment{ ID=0ec14, cubicMeter=80, tenant= William }
+], rentedParkingPlaces = [], items=null, vehicles=null, letters=[]}
